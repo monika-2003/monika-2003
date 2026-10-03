@@ -161,47 +161,6 @@ Currently, I work on **QueueBuster POS**, where I own frontend features end-to-e
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 Helix — Commerce Intelligence Platform
-
-**React.js · TypeScript · TanStack Query · REST APIs**
-
-A commerce-intelligence platform designed to bring operational data and investigation workflows into a unified workspace.
-
-**Key Contributions:**
-
-- Built product UI connecting:
-  - Invoices
-  - Settlements
-  - Inventory
-  - Customers
-  - Rewards
-  - Support
-- Developed analytics and investigation workflows.
-- Implemented drill-down views, filters, charts, and evidence-backed ticket workflows.
-- Built data-heavy consoles using **TanStack Query** and cached REST fetching.
-- Implemented virtualized tables for large datasets.
-- Created reusable UI patterns for filters, charts, loading states, empty states, and error states.
-- Built a conversational interface while preserving source and scope context with each response.
-
----
-
-### 🛒 QueueBuster POS — Web POS Platform
-
-**React.js · TypeScript · Redux Toolkit · REST APIs**
-
-A web-based POS platform supporting business workflows such as billing, inventory, catalog management, and operational processes.
-
-**Key Contributions:**
-
-- Developed reusable POS workflows and UI components.
-- Built form-driven interfaces with validation.
-- Integrated REST APIs and synchronized frontend state.
-- Translated the existing Android Billing workflow into a web experience.
-- Contributed to white-labeling and multilingual capabilities for international deployments.
-
----
 
 ## 📈 What I Care About
 

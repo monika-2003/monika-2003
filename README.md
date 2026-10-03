@@ -13,10 +13,8 @@ Currently, I work on **QueueBuster POS**, where I own frontend features end-to-e
 ## 🚀 About Me
 
 - 💻 4+ years of experience in frontend engineering
-- ⚛️ Primarily focused on **React.js, TypeScript & JavaScript**
+- ⚛️ Primarily focused on **React.js, Angular, Vue, TypeScript & JavaScript**
 - 🏗️ Experienced in **component architecture, reusable components, design systems, and monorepos**
-- 📊 Built and optimized **large-data interfaces handling 100,000+ rows**
-- ⚡ Reduced frontend build time from **15 minutes to 3 minutes**
 - 🤖 Worked on **AI-powered commerce intelligence experiences**
 - 🌍 Experience with **white-labeling and multilingual applications**
 - 🧪 Experienced with **Jest, React Testing Library & Cypress**
